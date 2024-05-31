@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952q4yw2300a0uzrtntglbydgpn5g6austtksd6jrza&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FzP3Oa2&psig=AOvVaw3PSf-JhBrvZCQbmijB6WnN&ust=1717271989985000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCZ7urWuIYDFQAAAAAdAAAAABAR" />
 
 <h1 align="center">Hi 👋, I'm Moriba Hebelamou</h1>
 <h3 align="center">A passionate backend and frontend developer from Guinea - Conakry</h3>
