@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="100%" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952q4yw2300a0uzrtntglbydgpn5g6austtksd6jrza&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
 <h1 align="center">Hi 👋, I'm Moriba Hebelamou</h1>
 <h3 align="center">A passionate backend and frontend developer from Guinea - Conakry</h3>
 
