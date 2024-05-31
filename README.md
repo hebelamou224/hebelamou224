@@ -3,11 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952q4yw2300a0uzrtntglbydgpn5g6austtksd6jrza&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hebelamou224&label=Profile%20views&color=0e75b6&style=flat" alt="hebelamou224" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hebelamou224" alt="hebelamou224" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Trustify Manager Store**
 
